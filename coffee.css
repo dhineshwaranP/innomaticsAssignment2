@@ -1,0 +1,94 @@
+.a{
+    background-color:black;
+    color:white;
+}
+ul,li{
+    display: inline;
+    transition: 0.05px;
+    .c{
+        font-size: 50px;
+        margin-right: 700px;
+    }
+    .d{
+        padding-right: 40px;
+        
+    }
+    .e{
+        background-color: black;
+        color: white;
+        border: 0px;
+    }
+}
+.f{
+    background-color: black;
+    color: white;
+    background: rgba(0, 0,0, 0.5)url(coffee\ image.jpg);
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    margin: 0%;
+}
+
+.h{
+    display: flex;
+    padding: 30px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+    .i{
+        background-color: aliceblue;
+        background-size: cover;
+    }
+}
+.j{
+    color: darkred;
+    background-color:cornsilk;
+}
+.pa4{
+    display: flex;
+    padding: 30px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+    background-color: darkslategrey;
+    .m4{
+        width: 300px;
+        border: 5px solid burlywood;
+        background-color: black;
+        background: rgba(0, 0,0, 0.4);
+        border-radius: 20px;
+        padding:15px;
+        z-index: 20 ;
+        margin-left: 10%;
+    }
+}
+.i{
+    border-radius: 20px;
+}
+body{margin: 0%;}
+.pa6{
+    background-color: cadetblue;
+    .p4{
+        padding: 50px;
+        .p{
+            padding-left: 20PX;
+        }
+        .p2{
+            padding-left: 30px;
+        }
+        .p3{
+            padding-left: 20px;
+        }
+    }
+ }
+ .f1{
+    font-size: 40px;
+ }
+ .f2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkviolet;
+    font-size: 50px;
+    font-style: italic;
+ }
+    
